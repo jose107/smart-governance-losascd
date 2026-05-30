@@ -1,0 +1,13 @@
+{
+  "name": "smart-governance-losascd",
+  "version": "1.0.0",
+  "description": "Sistema de reserva de losas deportivas municipales con enfoque de Smart Governance.",
+  "main": "src/reservas.js",
+  "scripts": {
+    "test": "jest",
+    "build": "node src/reservas.js"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
